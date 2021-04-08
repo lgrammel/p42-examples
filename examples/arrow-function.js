@@ -9,3 +9,5 @@ const f2 = function() {
 const f3 = function named() {
   console.log("not turned into arrow function");
 }
+
+// test
