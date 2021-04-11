@@ -1,4 +1,4 @@
-const f1 = x => x * x
+const f1 = function(x) { return x * x; };
 
 const f2 = () => {
   console.log(this);
